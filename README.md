@@ -1,5 +1,4 @@
-# Luminatura 
-## ***par Prethiah Rajaratnam***
+# Luminatura par Prethiah Rajaratnam
 
 ***Luminatura***, où la lumière et la nature s'entrelacent pour éclairer l'esprit à travers la magie des lanternes.
 
@@ -27,22 +26,21 @@ Mon œuvre ***Luminatura*** s’inspire des profondeurs symboliques des lanterne
 
 Dans ***Luminatura***, ma motivation personnelle réside dans le désir d'explorer comment la lumière intérieure peut guider chaque individu à travers ses propres ombres, créant une connexion entre le spectateur et son esprit. En intégrant des éléments inspirés de la culture japonaise, je cherche à répondre à un besoin de sérénité et de contemplation dans notre monde contemporain, tout en suscitant une réflexion sur notre relation avec la nature et la technologie.
 
-
 ## Scénario interactif
 
 ## Planche d'ambiances visuelles
 
 ## Planche d'ambiances sonores
 
-<iframe> <width="560" height="315" src="https://www.youtube.com/watch?v=NMbSnI1UWFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe> <width="560" height="315" src="https://www.youtube.com/watch?v=-ytgGCetzXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe> <width="560" height="315" src="https://www.youtube.com/watch?v=igS5kbMBJ1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe> <width="560" height="315" src="https://www.youtube.com/watch?v=MB4Xh3_nYfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe> <width="560" height="315" src="https://www.youtube.com/watch?v=nE_XAauwu1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe> <width="560" height="315" src="https://www.youtube.com/watch?v=wxflcCxqebU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=NMbSnI1UWFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=-ytgGCetzXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=igS5kbMBJ1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=MB4Xh3_nYfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=nE_XAauwu1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=wxflcCxqebU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Références artistiques
+
 ### L'esthétique et le design
 
 | Couleur                                  | Signification                     |
@@ -92,7 +90,7 @@ Pour ***Luminatura***, les choix d'ambiances sonores se concentrent sur l'harmon
   Ordinateur
 - Haut-parleurs
 
-### Capteurs et Évaluation
+#### Capteurs et Évaluation
 
 | Capteur de chaleur                                        | Composants                   |
 | --------------------------------------------------------- | ---------------------------- |
@@ -100,14 +98,13 @@ Pour ***Luminatura***, les choix d'ambiances sonores se concentrent sur l'harmon
 | Résistances traversantes                                  | YAGEO CFR-25JB-52-3M6        |
 | Cartes d'évaluation de capteurs                           | Adafruit Industries LLC 1374 |
 
-### Support en Métal
+#### Support en Métal
 
 | Support en métal pour la plaque métallique | Composants                          |
 | ------------------------------------------ | ----------------------------------- |
 | Tube en acier ou en aluminium              | Structure principale du « stand »   |
 | Base plate                                 | Assurer la stabilité du « stand »   |
 | Vis et boulons                             | Assembler et garantir la durabilité |
-
 
 ## Logiciel
   
