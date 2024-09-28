@@ -3,6 +3,7 @@
 ***Luminatura***, où la lumière et la nature s'entrelacent pour éclairer l'esprit à travers la magie des lanternes.
 
 ## Concept
+---
 
 ***Luminatura*** est une installation immersive alliant art et technologie, où des lanternes illuminent votre parcours et des vignes décorent l'espace, créant une atmosphère accueillante. En touchant une plaque métallique, la chaleur corporelle de l'utilisateur déclenche une réponse lumineuse et sonore, illustrant le potentiel de transformation que chacun détient sur son environnement.
 
@@ -12,11 +13,15 @@
 
 En touchant la plaque, le visiteur déclenche une lumière douce et chaleureuse, accompagnée de sons apaisants de la nature. Ce moment intime lui permet de réfléchir à ses propres expériences de transformation et d’éveiller des émotions profondes, soulignant le pouvoir de l'art et de la technologie pour toucher l’âme humaine.
 
+![rajaratnam_prethiah_schema](https://github.com/user-attachments/assets/ca1e7e8c-7ca6-4247-a0ad-d956e35a5d4a)
+
 ## Objectif
+---
 
 L'œuvre vise à provoquer une expérience immersive où l'interaction avec des lanternes emblématiques déclenche une transformation lumineuse et sonore, nous invitant à réfléchir sur notre pouvoir d'influencer et d'illuminer notre environnement.
 
 ## Motivations
+---
 
 ### Motivation créative
 
@@ -27,10 +32,15 @@ Mon œuvre ***Luminatura*** s’inspire des profondeurs symboliques des lanterne
 Dans ***Luminatura***, ma motivation personnelle réside dans le désir d'explorer comment la lumière intérieure peut guider chaque individu à travers ses propres ombres, créant une connexion entre le spectateur et son esprit. En intégrant des éléments inspirés de la culture japonaise, je cherche à répondre à un besoin de sérénité et de contemplation dans notre monde contemporain, tout en suscitant une réflexion sur notre relation avec la nature et la technologie.
 
 ## Scénario interactif
+---
 
 ## Planche d'ambiances visuelles
+---
+
+![rajaratnam_prethiah_planche](https://github.com/user-attachments/assets/5b0aea75-db03-44a2-8884-eec7bfba42be)
 
 ## Planche d'ambiances sonores
+---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NMbSnI1UWFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -38,14 +48,14 @@ Dans ***Luminatura***, ma motivation personnelle réside dans le désir d'explor
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/igS5kbMBJ1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MB4Xh3_nYfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W6xjxjpHJQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nE_XAauwu1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wxflcCxqebU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 ## Références artistiques
+---
 
 ### L'esthétique et le design
 
@@ -81,6 +91,7 @@ Pour ***Luminatura***, les choix d'ambiances sonores se concentrent sur l'harmon
 
 
 ## Matériaux
+---
 
 ### Matériaux et Composants
 
@@ -113,6 +124,7 @@ Pour ***Luminatura***, les choix d'ambiances sonores se concentrent sur l'harmon
 | Vis et boulons                             | Assembler et garantir la durabilité |
 
 ## Logiciel
+---
   
 | Logiciel  | Technique                                                 |
 | --------- | --------------------------------------------------------- |
@@ -128,5 +140,6 @@ Pour ***Luminatura***, les choix d'ambiances sonores se concentrent sur l'harmon
 | Protocole DMX            | QLC+     | Lumiere et logiciel |
 
 ## Sources
+---
 
 [Arduino - Capteur de chaleur](https://www.digikey.ca/en/maker/tutorials/2021/how-to-add-capacitive-sensing-to-any-arduino-project?msockid=1d6850aaf64a65b4178e445ff73e64f3)
