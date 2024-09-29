@@ -15,7 +15,7 @@ En touchant la plaque, le visiteur déclenche une lumière douce et chaleureuse,
 
 ---
 
-![rajaratnam_prethiah_schema](https://github.com/user-attachments/assets/ca1e7e8c-7ca6-4247-a0ad-d956e35a5d4a)
+![rajaratnam_prethiah_schema](https://github.com/user-attachments/assets/59e14f05-a5aa-404f-8eca-2d7f221f3de5)
 
 ---
 
