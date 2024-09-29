@@ -13,7 +13,11 @@
 
 En touchant la plaque, le visiteur déclenche une lumière douce et chaleureuse, accompagnée de sons apaisants de la nature. Ce moment intime lui permet de réfléchir à ses propres expériences de transformation et d’éveiller des émotions profondes, soulignant le pouvoir de l'art et de la technologie pour toucher l’âme humaine.
 
+---
+
 ![rajaratnam_prethiah_schema](https://github.com/user-attachments/assets/ca1e7e8c-7ca6-4247-a0ad-d956e35a5d4a)
+
+---
 
 ## Objectif
 ---
@@ -33,11 +37,50 @@ Dans ***Luminatura***, ma motivation personnelle réside dans le désir d'explor
 
 ## Scénario interactif
 ---
+```mermaid
+    graph TD;
+    ModeVeille[Mode veille] --> AmbianceBase[Lumière et audio de base jouent];
+    AmbianceBase --> Interaction[Interaction avec une plaque ?];
+    
+    %% Interaction Utilisateur 1
+    Interaction -- Oui --> Plaque1[Utilisateur 1 touche la plaque 1];
+    Plaque1 --> Capteur1[Capteur de chaleur U1 activé];
+    
+    Capteur1 --> Lumière1[Lumière modifiée pour U1];
+    Capteur1 --> Audio1[Audio modifié pour U1];
+    
+    Lumière1 --> Reste1[Utilisateur 1 reste ?];
+    Audio1 --> Reste1;
+    
+    Reste1 -- Oui --> PlusEffetsLumière1[Effets lumières augmentés pour U1];
+    Reste1 -- Oui --> PlusEffetsAudio1[Effets audio augmentés pour U1];
+    Reste1 -- Non --> RetourVeille1[Retour au mode veille pour U1];
+
+    %% Interaction Utilisateur 2
+    Interaction -- Oui --> Plaque2[Utilisateur 2 touche la plaque 2];
+    Plaque2 --> Capteur2[Capteur de chaleur U2 activé];
+    
+    Capteur2 --> Lumière2[Lumière harmonisée avec U1 pour U2];
+    Capteur2 --> Audio2[Audio harmonisé avec U1 pour U2];
+    
+    Lumière2 --> Reste2[Utilisateur 2 reste ?];
+    Audio2 --> Reste2;
+    
+    Reste2 -- Oui --> PlusEffetsLumière2[Effets lumières augmentés en harmonie avec U1];
+    Reste2 -- Oui --> PlusEffetsAudio2[Effets audio augmentés en harmonie avec U1];
+    Reste2 -- Non --> RetourVeille2[Retour au mode veille pour U2];
+
+    %% Retour au mode veille global
+    Interaction -- Non --> AmbianceBase;
+```
+
 
 ## Planche d'ambiances visuelles
 ---
 
 ![rajaratnam_prethiah_planche](https://github.com/user-attachments/assets/5b0aea75-db03-44a2-8884-eec7bfba42be)
+
+---
 
 ## Planche d'ambiances sonores
 ---
@@ -93,11 +136,11 @@ Pour ***Luminatura***, les choix d'ambiances sonores se concentrent sur l'harmon
 ## Matériaux
 ---
 
-### Matériaux et Composants
+#### Matériaux et Composants
 
 - Vignes Artificielles
-- Ampoules LED 3000W
-- Plaques métalliques (30 cm x 30 cm)
+- Ampoules LED 
+- Plaques métalliques 
 - Lanternes en polycarbonate
 - Régulateur de tension
 - Câbles
